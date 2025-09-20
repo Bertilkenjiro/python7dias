@@ -11,16 +11,23 @@
 ### 📝 Exercícios práticos
 1. **Cadastro simples**  
    - Pergunta nome, idade e cidade → retorna mensagem personalizada.
+   **Saída esperada:**
+   ![Cadastro rodando](img/print_cadastro.png)
 
 2. **Calculadora básica**  
    - Soma, subtração, multiplicação e divisão (com validação de divisão por zero).
+   **Saída esperada:**
+   ![Calculadora rodando](img/print_calculadora.png)
 
 3. **Verificador de senha**  
    - Confere se a senha digitada é igual à senha correta.
+   **Saída esperada:**
+   ![Conferencia de Senha rodando](img/print_verificador_senha.png)
 
 4. **Classificação de idades**  
    - Retorna: Criança, Adolescente, Adulto ou Idoso.
-
+   **Saída esperada:**
+   ![Classificação rodando](img/print_verificador_idade.png)
 ---
 
 ### ✅ Aprendizados do dia
